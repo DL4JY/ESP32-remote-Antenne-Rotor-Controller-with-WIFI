@@ -5,7 +5,7 @@ Don't forget the voltage divider - rotors give in general 0-5V for the position/
 
 Funcions:
 Webfrontend for Calibration 
-Webfrontend for the UDPP port config - compatible with TCi-cluster and thetis
+Webfrontend for the UDP port config - compatible with TCi-cluster and thetis
 Webfrontend - very simple for control.
 
 
@@ -15,5 +15,6 @@ https://github.com/DL4JY/SWR-Powermeter/blob/main/disclaimer_de.md
 english
 
 https://github.com/DL4JY/SWR-Powermeter/blob/main/disclaimer_en.md
+
 
 
