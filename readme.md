@@ -3,7 +3,7 @@ The schematic is in the .jpg file - very simple.
 This specific version is for an EMOTATOR FS1200 antenna rotor. The stop of this rotor ist at 180°  (south) - if required this can be changed for other rotors.
 Don't forget the voltage divider - rotors give in general 0-5V for the position/angle - ESP are only working with 3.3V max- and can be destroyed by more.
 
-Funcions:
+Functions:
 Webfrontend for Calibration 
 Webfrontend for the UDP port config - compatible with TCi-cluster and thetis
 Webfrontend - very simple for control.
